@@ -1,0 +1,14 @@
+1. Data Cleaning:
+   - Check for and handle missing values in the dataset.
+   - Ensure data types are correct for each column.
+
+2. Exploratory Data Analysis (EDA):
+   - Calculate basic statistics for the sales amount (mean, median, min, max).
+   - Visualize the distribution of sales amounts using a histogram.
+   - Explore the relationship between sales and product categories using bar charts or other appropriate visualizations.
+   - Investigate any trends or patterns in sales over time using line plots or time series analysis.
+
+3. Key Insights:
+   - Identify the top-selling product categories and regions.
+   - Determine if there are any seasonal trends in sales.
+   - Recommend any actionable insights based on your analysis (e.g., focus marketing efforts in a particular region, adjust inventory for certain product categories).
